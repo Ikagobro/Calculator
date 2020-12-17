@@ -1,0 +1,25 @@
+.display {
+    background-color:black;
+    display: flex;
+    flex-direction: column;
+    width: 360px;      
+}
+
+.operand {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 7px; 
+}
+
+.upper {
+    margin-top: 10px;
+    height: 31px;    
+}
+
+.lower {       
+    font-size: 3.5rem;
+    font-weight: bold;
+    height: 74px;  
+}
+
+
